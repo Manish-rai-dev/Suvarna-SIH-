@@ -1,0 +1,47 @@
+.cardcontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card1
+{
+    margin-top: 5%;
+height: 30vh;
+width: 50vw;
+background-color:rgba(0, 178, 255, 1);
+margin: 5%;
+padding: 5%;
+border: solid 2px black;
+color: black;
+border-radius: 10px;
+}
+.card2{
+    width: 50vw;
+    height: 30vh;
+    background-color:  rgba(0, 178, 255, 1);
+
+    margin: 5%;
+    padding: 5%;
+    border: solid 2px black;
+    color: black;
+    border-radius: 10px;
+}
+.card3
+{
+    width: 50vw;
+    height: 30vh;
+    margin: 5%;
+    padding:5%;
+    background-color: rgba(0, 178, 255, 1);
+    border: solid 2px black;
+color:black;
+border-radius: 10px;
+
+}
+.imghome {
+position: relative;
+
+left: 80%;
+}
